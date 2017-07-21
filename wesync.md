@@ -46,7 +46,7 @@
 
 根据中间人攻击的原理绘制了一个流程图：
 
-![](http://ossgw.alicdn.com/biu/1500260755412-YerqmxNZO0pOOruB.png)
+![](http://ossgw.alicdn.com/biu/1500616274794-Ta5CcKEwO1fCBfzN.png)
 
 需要说明的是：
 
